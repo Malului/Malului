@@ -35,7 +35,7 @@ Feel free to reach out if you have an opportunity, collaboration idea, or just w
 
 - 🌐 [Website](https://malului-portfolio.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/geoffreydev)
-- 📧 [Email](mailto:malului227@gmail./com)
+- 📧 [Email: malului227@gmail.com](mailto:malului227@gmail.com)
 - 🐙 [GitHub](https://github.com/Malului)
 
 ---
