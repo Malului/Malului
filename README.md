@@ -1,18 +1,18 @@
 # 💼 My Personal Portfolio
 
-Hi there 👋 — I'm **Malului Geoffrey**, a passionate **Full-Stack Developer** and **Blockchain Enthusiastic** dedicated in turning ideas into functional, user-friendly applications.
+Hello there 👋 — I'm **Malului Geoffrey**, a passionate **Web Developer** and **Blockchain Enthusiastic** dedicated in turning ideas into functional, user-friendly applications.
 
 ---
 
-## 🚀 About Me
+<!-- ## 🚀 About Me
 
 🔧 **Tech Stack Highlights:**
 - **Frontend:** Javascript, React, Tailwind CSS, NextJS
 - **Backend:** Node.js, Express.js, REST APIs, MongoDB / MySQL
-- **Tools & Other Skills:** Git & GitHub, Java, Docker, 
+- **Tools & Other Skills:** Git & GitHub, Java, Docker,  -->
 
 
-🤝 **Collaborative:** I work well in teams and enjoy contributing to projects, sharing knowledge, and learning continuously.
+<!-- 🤝 **Collaborative:** I work well in teams and enjoy contributing to projects, sharing knowledge, and learning continuously.
 
 🌱 **Currently Learning:** Python 
 
@@ -27,7 +27,7 @@ This portfolio showcases a collection of my top projects, including:
 
 Each project highlights a problem solved, the tools I used, and what I learned along the way.
 
----
+--- -->
 
 ## 📫 Let's Connect
 
