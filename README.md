@@ -31,7 +31,7 @@ Each project highlights a problem solved, the tools I used, and what I learned a
 
 Feel free to reach out if you have an opportunity, collaboration idea, or just want to connect:
 
-- 🌐 [Website](https://malului.com)
+- 🌐 [Website: malului.com](https://malului.com)
 - 💼 [LinkedIn](https://linkedin.com/in/geoffreydev)
 - 📧 [Email: contact@malului.com](mailto:contact@malului.com)
 - 🐙 [GitHub](https://github.com/Malului)
